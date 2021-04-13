@@ -1,6 +1,22 @@
 # php-oriente-objet
 Un exemple en PHP orienté objet
 
+# EXERCICE
+- créer une classe Article : 
+    * titre
+    * contenu
+    * date de publication
+- créer une classe Page : 
+    * titre
+    * contenu
+    * date de publication
+    * url
+
+
+articles : publications occasionnelles
+pages : liées à un emplacement dans l'arborescence du site
+
+
 # Histoire
 Logiciel Linux très complexe, beaucoup de dev travaillent dessus. 
 Ils ont créer Git, leur propre logiciel, pouvant s'utiliser sur n'importe quel serveur, logiciel libre.
