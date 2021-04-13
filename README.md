@@ -13,5 +13,6 @@ On le clone sur notre ordinateur
 On travaille dessus
 On fait un commit (une sorte de photographie) qui enregistre les modifications apportées.
 On push ensuite pour apporter les modification vers les serveur de Github
-
+Fetch récupère le code sur Github
+Merge récupère le code sur Github et fusionne 
 
