@@ -11,6 +11,7 @@ Une entreprise à créer Github, qui utilise le logiciel Git.
 Créer un dépôt chez Github (ou Gitlab, ...)
 On le clone sur notre ordinateur
 On travaille dessus
-On fait un commit (une sorte de photographie) qui enregistre les modifications apportées
+On fait un commit (une sorte de photographie) qui enregistre les modifications apportées.
+On push ensuite pour apporter les modification vers les serveur de Github
 
 
