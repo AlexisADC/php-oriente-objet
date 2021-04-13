@@ -25,14 +25,15 @@ Une entreprise à créer Github, qui utilise le logiciel Git.
 
 # Utilisation
 Créer un dépôt chez Github (ou Gitlab, ...)
-On le clone sur notre ordinateur
-On travaille dessus
-On fait un commit (une sorte de photographie) qui enregistre les modifications apportées.
-On push ensuite pour apporter les modification vers les serveur de Github
-Fetch récupère le code sur Github
-Merge récupère le code sur Github et fusionne 
+Le clôner sur notre ordinateur
+Travailler dessus en local
+Faire un commit qui enregistre les modifications
+Faire un push qui envoie les modification vers les serveurs de Github
 
-Fork -> sur un dépôt ajout/correction de code -> pull request propose une 
+Faire un fetch récupère le code sur les serveurs de Github
+Faire un merge fusionne le code récupéré avec son code en local
+
+Faire un fork sur un dépôt permet d'ajouter/corriger du code et de proposer un pull request
 
 # Vocabulaire
 commit : liste de fichiers avec les changements, états
